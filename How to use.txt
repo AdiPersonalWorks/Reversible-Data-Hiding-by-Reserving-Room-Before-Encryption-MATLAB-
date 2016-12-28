@@ -1,0 +1,9 @@
+Follow these instructions to use this tool:
+
+1. Run the 'Reversible_Data_Hiding.m' file. This will open up a GUI.
+2. Select an image from one of the provided images and click the 'START PROCESS' button. This will begin the reversible data hiding process and all the results will be visible on the screen.
+3. In case you want to preview the image, use the 'Preview Image' button on the GUI.
+
+Please note : Make sure all the folders are in the path before running the code.
+
+The explanation of all the scripts are present in the scripts as comments.
